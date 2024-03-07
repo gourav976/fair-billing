@@ -50,6 +50,6 @@ Note:
 Ensure that Python 3.x is installed on your system.
 
 Author:
-Gourav Patidar
-gpatidar976@gmail.com
-Software Engineer
+- Gourav Patidar
+- gpatidar976@gmail.com
+- Software Engineer
