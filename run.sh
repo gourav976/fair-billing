@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python user_session.py sample_log.log
+python user_session.py test-files/sample_log.log > output.txt
