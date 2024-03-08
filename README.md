@@ -31,6 +31,14 @@ Assume you have a log file named sample.log containing session data. To analyze 
 
 Output will be displayed on the console.
 
+<b>Run by shell script</b>:
+
+Added a default sample_log file and you can directly run the sh file to execute the script:
+
+    run.sh
+
+Output will be displayed in output.txt file, Which will be created in root directory of the project.
+
 ## Test Cases
 
 1. Logs with some test data
