@@ -20,7 +20,7 @@ The program prints the following information for each user:
 ## Usage:
 To run the program, execute the following command in the terminal:
 
-    python billing.py <log_file_path>
+    python user_session.py <log_file_path>
 
 Replace <log_file_path> with the path to your log file.
 
